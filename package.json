@@ -1,5 +1,5 @@
 {
-  "name": "rollup-ts-dts-template-v1.29.0",
+  "name": "rollup-ts-dts-template-v2.33.1",
   "version": "1.0.0",
   "main": "dist/how-long-till-lunch.cjs.js",
   "module": "dist/how-long-till-lunch.esm.js",
